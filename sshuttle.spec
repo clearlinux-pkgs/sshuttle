@@ -7,7 +7,7 @@
 #
 Name     : sshuttle
 Version  : 1.1.1
-Release  : 2
+Release  : 3
 URL      : https://github.com/sshuttle/sshuttle/archive/v1.1.1/sshuttle-1.1.1.tar.gz
 Source0  : https://github.com/sshuttle/sshuttle/archive/v1.1.1/sshuttle-1.1.1.tar.gz
 Summary  : Full-featured" VPN over an SSH tunnel
